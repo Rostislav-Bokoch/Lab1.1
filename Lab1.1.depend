@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1480581335 source:d:\lab1.1\c3kut.cpp
+	"C3Kut.h"
+
+1480581447 d:\lab1.1\c3kut.h
+
+1480581639 source:d:\lab1.1\fh.cpp
+	<Cmath>
+	"C3Kut.h"
+	"fh.h"
+
+1480581443 d:\lab1.1\fh.h
+	"C3Kut.h"
+
+1480581504 source:d:\lab1.1\main.cpp
+	<iostream>
+	"C3Kut.h"
+
