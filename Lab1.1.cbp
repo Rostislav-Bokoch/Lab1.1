@@ -7,7 +7,7 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Lab1.1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Lab1" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Lab1.1" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Lab1" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,6 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="C3Kut.cpp" />
+		<Unit filename="C3Kut.h" />
+		<Unit filename="fh.cpp" />
+		<Unit filename="fh.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
