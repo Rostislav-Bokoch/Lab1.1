@@ -1,4 +1,4 @@
-#include <Cmath>
+#include <cmath>
 #include "C3Kut.h"
 #include "fh.h"
 
